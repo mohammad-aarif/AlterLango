@@ -1,0 +1,21 @@
+.whyus{
+    text-align: left;
+    background-color: rgb(241, 246, 248);
+    box-shadow: 5px 5px 8px rgb(218, 218, 218);
+    margin: 50px;
+    margin: 50px auto;
+    width: 75%;
+    border-radius: 20px;
+}
+.why-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.why-content img{
+     width: 10%;
+}
+.whytexts{
+    padding: 20px;
+}

@@ -1,0 +1,79 @@
+[
+	{
+		"key": 1,
+		"name": "Spanish",
+		"learner": 23.7,
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1920px-Bandera_de_Espa%C3%B1a.svg.png",
+		"description": "Spoken in 21 countries, many with beautiful beaches and ancient cultures, Spanish is one of the most important languages in the western hemisphere and the third most spoken language in the world. On Duolingo, you'll learn a version of Spanish closer to what you'd hear in Latin America than in Spain, but the differences are relatively small and everybody will be able to understand you."
+	},
+	{
+		"key": 2,
+		"name": "Hindi",
+		"learner": 2.7,
+		"flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1920px-Flag_of_India.svg.png",
+		"description": "Spoken by over 500 million people around the world, Hindi is one of the official languages of India and Fiji. It is also one of the most widely spoken languages in the world. Hindi is originally based on Sanskrit, including its name which originated from the Sanskrit word 'Sindhu' (another name for the Indus River). On Duolingo, you will be able to learn this compelling language with more than 1000 years of history, converse with folks in Delhi on your next trip to India, navigate your way to the Taj Mahal in Agra, and watch famous Bollywood movies. There are many languages spoken in India, but you will be understood throughout the country."
+	},
+	{
+		"key": 3,
+		"name": "Arabic",
+		"learner": 14.4,
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1920px-Flag_of_Saudi_Arabia.svg.png",
+		"description": "Arabic is the 4th most commonly spoken language in the world with over 295 million speakers. Learn Arabic with Duolingo to communicate with locals when you travel to Egypt, Morocco, Jordan, Lebanon or any of the 27 countries where Arabic is an official language. Use your new skills to appreciate beautiful Arabic calligraphy and literature or flawlessly order shawarma in Cairo!"
+	},
+	{
+		"key": 4,
+		"name": "Turkish",
+		"learner": 21.3,
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1920px-Flag_of_Turkey.svg.png",
+		"description": "Turkish is the national language of Turkey and is spoken by over 75 million people as their first language. Learn standard Turkish so you can be understood when you sightsee in Istanbul or meet Turkish speakers on your world travels!"
+	},
+	{
+		"key": 5,
+		"name": "French",
+		"learner": 9.8,
+		"flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1920px-Flag_of_France.svg.png",
+		"description": "Learn the language of love and discover why France is one of the most visited countries in the world! Climb the Eiffel tower and impress the Parisians with your knowledge of French. On Duolingo, you'll learn the version of French that you'd hear in Paris. Don't worry though! You'll be understood by the 220 million French speakers across the globe since this is considered the standard."
+	},
+	{
+		"key": 6,
+		"name": "Japanese",
+		"learner": 16.3,
+		"flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1920px-Flag_of_Japan.svg.png",
+		"description": "There are two truths about Japanese culture. First, it is celebrated the world over — film, food, literature, music, art, all of it. Second, to best appreciate it, you must first learn Japanese! With Duolingo, you’ll start speaking Japanese and reading its three writing systems (yes, even Kanji). Learn Japanese and confidently order tonkotsu at a 10-seat side-alley Tokyo ramen shop or cheerfully check-in to a Hokkaido onsen. Never read awkwardly translated manga or watch dubbed anime again. You may already be curious about the culture behind the world’s third largest economy, sushi, haikus, karate, Zen, and Pokemon. Once you start learning Japanese, you’ll realize that’s just the beginning.."
+	},
+	{
+		"key": 7,
+		"name": "Korean",
+		"learner": 5.7,
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1920px-Flag_of_South_Korea.svg.png",
+		"description": "Korean is the national language of Korea and is spoken by over 77 million people as their first language. Learn Korean and communicate with the locals as you explore beautiful cities such as Daegu, Jeonju, and Seongnam. You'll be able to ask for directions to the iconic Seokguram Grotto, cheer on your team at the Donghaean derby or even order your favorite Korean dish! Start learning Korean today through Duolingo and immerse yourself in this unique language."
+	},
+	{
+		"key": 8,
+		"name": "Germen",
+		"learner": 4.8,
+		"flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
+		"description": "German is spoken by over 200 million people around the world, primarily in Europe. After taking this course, you'll be able to visit Berlin and sound authentic with all your recently learned skills! We teach 'Hochdeutsch' or 'High German,' the most widely spoken version of German."
+	},
+	{
+		"key": 9,
+		"name": "Chinese",
+		"learner": 11.9,
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1920px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+		"description": "No language is more spoken in the world than Chinese. It was used by an ancient and glorious civilization — Chinese characters are the oldest writing system still in use — as well as by one of the most powerful economies in the world today. With Duolingo, you’ll start speaking Mandarin Chinese (yes, even the tones) and pick up 600+ essential Chinese characters. Masterfully order hot pot, impress grandparents and friends in their native tongue and even learn both useful business vocabulary and internet slang!"
+	},
+	{
+		"key": 10,
+		"name": "Russian",
+		"learner": 3.7,
+		"flag": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1920px-Flag_of_Russia.svg.png",
+		"description": "Russian is the 5th most spoken language in the world with over 285 million speakers. It is also the most spoken Slavic language in the world. On Duolingo, you'll learn a whole new alphabet and be able to use your newly learned skills in any situation whether it be business, travel or pleasure. You'll also gain a new appreciation for Russian literature."
+	},
+	{
+		"key": 11,
+		"name": "Greek",
+		"learner": 22.3,
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1920px-Flag_of_Greece.svg.png",
+		"description": "Greek is one of the most ancient languages in the world. Spoken by around 13 million people, it is a language that holds an important place in history. A great number of world-famous works in mythology, philosophy, literature, psychology, mathematics and other sciences were created in Greek. \nSign up to learn this historical language on Duolingo today! Whether you do it so you can stroll the streets of Athens, order your food on a Greek island or prepare for a journey into Odyssey’s pages as written in its original language, this is a language that will definitely enrich your life."
+	}
+]
